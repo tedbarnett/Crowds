@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Crowd_BakedAnimation_Weapon1
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  serializedVersion: 2
+  m_Width: 8
+  m_Height: 8
+  m_CompleteImageSize: 512
+  m_TextureFormat: 17
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 2
+    m_WrapV: 2
+    m_WrapW: 2
+  m_LightmapFormat: 0
+  m_ColorSpace: 0
+  image data: 512
+  _typelessdata: a2a81038f9341fb621a7e637d634f1b502a80138e53409b6bbb3883711373eb6a0b37637063735b694b38037fd363ab660b03339be34c2adcdcdcdcdcdcdcdcd96a80e38f7341db6e5a6e037d234ecb53da80638ec3411b6d0b389371b373cb6a5b37737083735b689b37837f83633b64ab070397a3430adcdcdcdcdcdcdcdcd7ea80c38f4341ab6bda6dc37cf34e9b56ea80b38f33418b6e1b3893723373ab6b2b37c370e3737b673ab79393a34592aabafca39003458aacdcdcdcdcdcdcdcd5da80938f03414b6aca6db37ce34e8b591a80e38f7341db6e8b38a3727373ab6bfb38237143739b61eac963915344029d1add239c633371bcdcdcdcdcdcdcdcd35a80538eb340db6b6a6dd37cf34ebb5a2a81038f9341fb6deb38b3723373db6cab38a3718373db61badc039db33d82473ab79393a34592acdcdcdcdcdcdcdcd0ba80038e53406b6dfa6e337d234efb589b37837f83633b6cbb388371a373db6c9b39337193745b668aee239b53319a2cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdbea7f737e034feb52ba7ec37d734f7b594b37f37fd3638b6bfb3823715373bb6bbb39237123746b69cafd139f73300aacdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd6ba7ee37da34f7b590a7f737de3401b6a5b3853706373db6aeb37c370d3739b6a7b38a37073741b637b06e396f34feaccdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
